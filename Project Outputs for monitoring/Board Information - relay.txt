@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\amoozesh\PROJECT\habibi\github\monitoring\relay.PcbDoc
+Date         : 13/04/2019
+Time         : 10:17:03 ق.ظ
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 95/24%
+    Connections, 42
+    Connections routed, 40
+    Connections remaining, 2
+count : 4

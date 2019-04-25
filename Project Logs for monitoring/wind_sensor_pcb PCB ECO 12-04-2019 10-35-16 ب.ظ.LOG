@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC- Pin=PP1-8
+Removed Pin From Net: NetName=VCC- Pin=u*-11
+Change Component Comment : Designator=R28 Old Comment=10K New Comment=10K ptc
+Change Component Comment : Designator=R7 Old Comment=51 New Comment=2K
+Change component parameters: Designator = "R7"; Footprint = "1206"; UniqueID = "\HVLCWMVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "1206"; UniqueID = "\HBSURUDQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K ptc"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC- Pin=P5-2
+Added Pin To Net: NetName=GND Pin=PP1-8
+Added Pin To Net: NetName=VCC- Pin=R55-2
+Added Pin To Net: NetName=GND Pin=u*-11
+Change Net Name : Old Net Name=VCC- New Net Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5.6K
+Added Room: Name=Sheet1

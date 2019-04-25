@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Mr_DeeP\Desktop\habibi\monitoring\PCB1.PcbDoc
+Date         : 04/04/2019
+Time         : 05:12:31 ب.ظ
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99/12%
+    Connections, 227
+    Connections routed, 225
+    Connections remaining, 2
+count : 4

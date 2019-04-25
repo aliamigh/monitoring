@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HJR12CL05VDCSZY"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HJR12CL05VDCSZY")
+        (spec "default")
+    )
+)

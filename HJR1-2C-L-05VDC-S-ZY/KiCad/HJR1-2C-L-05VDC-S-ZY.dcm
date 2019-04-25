@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HJR1-2C-L-05VDC-S-ZY
+D Surge strength 1500V FCC68
+K
+F https://www.schukat.com/schukat/pdf.nsf/index/B12244178CC2A902C125773F002B1B58/$file/2.pdf
+$ENDCMP
+#
+#End Doc Library

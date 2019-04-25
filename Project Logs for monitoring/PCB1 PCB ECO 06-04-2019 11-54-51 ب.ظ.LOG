@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=RELAY9 Pin=PP3-2
+Removed Pin From Net: NetName=RELAY10 Pin=PP3-3
+Added Component: Designator=PP3(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PP?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U7(STM-LQFP48_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 6, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-6063-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1447637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "59M2182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "57P1222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=PP3-1
+Added Pin To Net: NetName=PIR_DATA Pin=PP3-2
+Added Pin To Net: NetName=RELAY9 Pin=PP3-2
+Added Pin To Net: NetName=GND Pin=PP3-3
+Added Pin To Net: NetName=RELAY10 Pin=PP3-3
+Added Pin To Net: NetName=GND Pin=PP3-4
+Added Pin To Net: NetName=3.3V Pin=PP?-1
+Added Pin To Net: NetName=U2_TX2 Pin=PP?-2
+Added Pin To Net: NetName=U2_RX2 Pin=PP?-3
+Added Pin To Net: NetName=GND Pin=PP?-4
+Added Pin To Net: NetName=RELAY24 Pin=U7-2
+Added Pin To Net: NetName=NetC45_2 Pin=U7-3
+Added Pin To Net: NetName=NetC46_2 Pin=U7-4
+Added Pin To Net: NetName=NetC48_2 Pin=U7-5
+Added Pin To Net: NetName=NetC49_2 Pin=U7-6
+Added Pin To Net: NetName=U2_NRST Pin=U7-7
+Added Pin To Net: NetName=RELAY13 Pin=U7-10
+Added Pin To Net: NetName=RELAY14 Pin=U7-11
+Added Pin To Net: NetName=U2_TX2 Pin=U7-12
+Added Pin To Net: NetName=U2_RX2 Pin=U7-13
+Added Pin To Net: NetName=RELAY15 Pin=U7-14
+Added Pin To Net: NetName=U2_SCK Pin=U7-15
+Added Pin To Net: NetName=U2_SO Pin=U7-16
+Added Pin To Net: NetName=U2_SI Pin=U7-17
+Added Pin To Net: NetName=RELAY1 Pin=U7-18
+Added Pin To Net: NetName=RELAY2 Pin=U7-19
+Added Pin To Net: NetName=RELAY3 Pin=U7-20
+Added Pin To Net: NetName=RELAY9 Pin=U7-21
+Added Pin To Net: NetName=RELAY10 Pin=U7-22
+Added Pin To Net: NetName=RELAY11 Pin=U7-25
+Added Pin To Net: NetName=U2_SWDIO Pin=U7-26
+Added Pin To Net: NetName=U2_SWCLK Pin=U7-27
+Added Pin To Net: NetName=RELAY12 Pin=U7-28
+Added Pin To Net: NetName=RELAY16 Pin=U7-29
+Added Pin To Net: NetName=RELAY17 Pin=U7-30
+Added Pin To Net: NetName=RELAY18 Pin=U7-31
+Added Pin To Net: NetName=RELAY19 Pin=U7-32
+Added Pin To Net: NetName=RELAY20 Pin=U7-33
+Added Pin To Net: NetName=RELAY21 Pin=U7-34
+Added Pin To Net: NetName=RELAY22 Pin=U7-37
+Added Pin To Net: NetName=RELAY23 Pin=U7-38
+Added Pin To Net: NetName=RELAY4 Pin=U7-39
+Added Pin To Net: NetName=RELAY5 Pin=U7-40
+Added Pin To Net: NetName=RELAY6 Pin=U7-41
+Added Pin To Net: NetName=RELAY7 Pin=U7-45
+Added Pin To Net: NetName=RELAY8 Pin=U7-46
+Added Member To Class: ClassName=Sheet3 Member=Component PP? uart2_OUTPUT
+Added Member To Class: ClassName=Sheet3 Member=Component U7 STM32F103C8T6

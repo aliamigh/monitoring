@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HJR1-2C-L-05VDC-S-ZY"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-24-08:58:35)
+    (mountForm default
+        (footprintRef "HJR12CL05VDCSZY")
+        (spec "System")
+    )
+)
