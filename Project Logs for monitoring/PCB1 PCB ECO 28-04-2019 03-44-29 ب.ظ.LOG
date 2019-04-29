@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P55 NewDesignator=mu_CONNECTOR
+Change Component Designator: OldDesignator=P? NewDesignator=jamper
+Change Component Designator: OldDesignator=PP1 NewDesignator=gps_connector
+Change Component Designator: OldDesignator=PP2 NewDesignator=humadity_sensor
+Change Component Designator: OldDesignator=PP3 NewDesignator=PIR_Sensor
+Change Component Designator: OldDesignator=PP4 NewDesignator=Ethernet_module
+Change Component Designator: OldDesignator=PP5 NewDesignator=MPU6050
+Change Component Designator: OldDesignator=PP9 NewDesignator=SPI_out
+Change Component Designator: OldDesignator=PP10 NewDesignator=uart1_debugport
+Change Component Designator: OldDesignator=PP11 NewDesignator=spi can
+Change Component Designator: OldDesignator=PP? NewDesignator=CAN_pin
+Change Component Designator: OldDesignator=PT NewDesignator=Temp_Sensor
+Change Component Designator: OldDesignator=U10 NewDesignator=sim_800c_header b

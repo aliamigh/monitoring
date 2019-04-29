@@ -1,0 +1,4 @@
+Change Component Comment : Designator=CAN_OUT Old Comment=can New Comment=can_OUT
+Added Pin To Net: NetName=CAN+ Pin=spi_can-8
+Added Pin To Net: NetName=CAN- Pin=spi_can-9
+Added Room: Name=Sheet1

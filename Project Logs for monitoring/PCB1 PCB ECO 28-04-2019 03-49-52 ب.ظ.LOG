@@ -1,0 +1,90 @@
+Added Component: Designator=gps_connector(GPS_PORT_MODULE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=UU1(header_board_st_40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 6, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-6063-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1447637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "59M2182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "57P1222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=gps_connector-1
+Added Pin To Net: NetName=GPS_rx Pin=gps_connector-2
+Added Pin To Net: NetName=GPS_tx Pin=gps_connector-3
+Added Pin To Net: NetName=GND Pin=gps_connector-4
+Added Pin To Net: NetName=3.3V Pin=UU1-1
+Added Pin To Net: NetName=temp_data Pin=UU1-5
+Added Pin To Net: NetName=PIR_DATA Pin=UU1-6
+Added Pin To Net: NetName=GPS_rx Pin=UU1-7
+Added Pin To Net: NetName=GPS_tx Pin=UU1-8
+Added Pin To Net: NetName=DATA_humadity Pin=UU1-9
+Added Pin To Net: NetName=SPI1_SCK Pin=UU1-10
+Added Pin To Net: NetName=SPI1_MISO Pin=UU1-11
+Added Pin To Net: NetName=SPI1_MOSI Pin=UU1-12
+Added Pin To Net: NetName=CS3 Pin=UU1-14
+Added Pin To Net: NetName=SIM_TX3 Pin=UU1-15
+Added Pin To Net: NetName=SIM_RX3 Pin=UU1-16
+Added Pin To Net: NetName=3.3V Pin=UU1-18
+Added Pin To Net: NetName=GND Pin=UU1-19
+Added Pin To Net: NetName=GND Pin=UU1-20
+Added Pin To Net: NetName=CS2 Pin=UU1-21
+Added Pin To Net: NetName=SPI2_SCK Pin=UU1-22
+Added Pin To Net: NetName=SPI2_MISO Pin=UU1-23
+Added Pin To Net: NetName=SPI2_MOSI Pin=UU1-24
+Added Pin To Net: NetName=CS Pin=UU1-25
+Added Pin To Net: NetName=Debug_TX1 Pin=UU1-26
+Added Pin To Net: NetName=Debug_RX1 Pin=UU1-27
+Added Pin To Net: NetName=CAN_RX Pin=UU1-28
+Added Pin To Net: NetName=CAN_TX Pin=UU1-29
+Added Pin To Net: NetName=CS4 Pin=UU1-31
+Added Pin To Net: NetName=CS5 Pin=UU1-32
+Added Pin To Net: NetName=CS6 Pin=UU1-33
+Added Pin To Net: NetName=SCL Pin=UU1-34
+Added Pin To Net: NetName=SDA Pin=UU1-35
+Added Pin To Net: NetName=GND Pin=UU1-39
+Added Pin To Net: NetName=3.3V Pin=UU1-40
+Added Member To Class: ClassName=Sheet1 Member=Component CAN_pin
+Added Member To Class: ClassName=Sheet1 Member=Component Ethernet_module
+Added Member To Class: ClassName=Sheet1 Member=Component gps_connector
+Added Member To Class: ClassName=Sheet1 Member=Component humadity_sensor
+Added Member To Class: ClassName=Sheet1 Member=Component jamper
+Added Member To Class: ClassName=Sheet1 Member=Component MPU6050
+Added Member To Class: ClassName=Sheet1 Member=Component mu_CONNECTOR
+Added Member To Class: ClassName=Sheet1 Member=Component PIR_Sensor
+Added Member To Class: ClassName=Sheet1 Member=Component R22 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component reg1 ams1117-5
+Added Member To Class: ClassName=Sheet1 Member=Component sim_800c_header b
+Added Member To Class: ClassName=Sheet1 Member=Component SPI_out
+Added Member To Class: ClassName=Sheet1 Member=Component spi can
+Added Member To Class: ClassName=Sheet1 Member=Component Temp_Sensor
+Added Member To Class: ClassName=Sheet1 Member=Component uart1_debugport
+Added Member To Class: ClassName=Sheet1 Member=Component UU1 STM32F103C8T6

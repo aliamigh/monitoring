@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=12V Pin=C21-1
+Removed Pin From Net: NetName=12V Pin=D1-2
+Removed Pin From Net: NetName=12V Pin=POWER1-1
+Removed Pin From Net: NetName=12V Pin=U3-1
+Change Component Designator: OldDesignator=BATTRY NewDesignator=P?
+Added Component: Designator=ON/OFF?(TL36WW15050)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.apem.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "05-Dec-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Schematic revised, PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 4 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TL36WW15050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=ON/OFF?-1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=U3-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=Vin Pin=D1-2
+Added Pin To Net: NetName=Vin Pin=ON/OFF?-2
+Added Pin To Net: NetName=Vin Pin=POWER1-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=Sheet1 Member=Component ON/OFF? SW-SPDT

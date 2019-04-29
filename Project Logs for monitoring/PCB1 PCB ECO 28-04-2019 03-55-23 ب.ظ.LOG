@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=3.3V Pin=gps_connector-1
+Added Pin To Net: NetName=GPS_rx Pin=gps_connector-2
+Added Pin To Net: NetName=GPS_tx Pin=gps_connector-3
+Added Pin To Net: NetName=GND Pin=gps_connector-4
+Added Member To Class: ClassName=Sheet1 Member=Component CAN_pin
+Added Member To Class: ClassName=Sheet1 Member=Component Ethernet_module
+Added Member To Class: ClassName=Sheet1 Member=Component gps_connector
+Added Member To Class: ClassName=Sheet1 Member=Component humadity_sensor
+Added Member To Class: ClassName=Sheet1 Member=Component jamper
+Added Member To Class: ClassName=Sheet1 Member=Component MPU6050
+Added Member To Class: ClassName=Sheet1 Member=Component mu_CONNECTOR
+Added Member To Class: ClassName=Sheet1 Member=Component PIR_Sensor
+Added Member To Class: ClassName=Sheet1 Member=Component R22 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component reg1 ams1117-5
+Added Member To Class: ClassName=Sheet1 Member=Component sim_800c_header b
+Added Member To Class: ClassName=Sheet1 Member=Component SPI_out
+Added Member To Class: ClassName=Sheet1 Member=Component spi can
+Added Member To Class: ClassName=Sheet1 Member=Component Temp_Sensor
+Added Member To Class: ClassName=Sheet1 Member=Component uart1_debugport
+Added Member To Class: ClassName=Sheet1 Member=Component UU1 STM32F103C8T6

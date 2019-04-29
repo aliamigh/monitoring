@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=RST Pin=UU1-37
+Change Net Name : Old Net Name=RST New Net Name=RST_ETHERNET
+Added Room: Name=Sheet1

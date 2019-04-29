@@ -1,0 +1,9 @@
+Added Component: Designator=PP11(SPI_CAN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=PP11-1
+Added Pin To Net: NetName=GND Pin=PP11-2
+Added Pin To Net: NetName=CS2 Pin=PP11-3
+Added Pin To Net: NetName=SPI2_MISO Pin=PP11-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=PP11-5
+Added Pin To Net: NetName=SPI2_SCK Pin=PP11-6
+Added Member To Class: ClassName=Sheet1 Member=Component PP11 spi can
