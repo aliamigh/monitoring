@@ -40,7 +40,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,40 +141,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DSNPLWCB
 
 [Document7]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PPAOKPLT
-
-[Document8]
-DocumentPath=Sheet3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XVWNYWQO
-
-[Document9]
 DocumentPath=C:\Users\Mr_DeeP\Desktop\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,41 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
-DocumentPath=D:\Users\Public\Documents\Altium\AD17\Library\Devices.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=D:\Users\Public\Documents\Altium\AD17\Library\Miscellaneous Connectors.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
+[Document8]
 DocumentPath=D:\Users\Public\Documents\Altium\AD17\Library\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document9]
 DocumentPath=D:\Users\Public\Documents\Altium\AD17\Library\My_Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document10]
 DocumentPath=D:\Users\Public\Documents\Altium\AD17\Library\usefully_Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document11]
 DocumentPath=windsensor.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -293,41 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARCDQBTB
 
-[Document16]
-DocumentPath=wind_sensor_pcb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EXUERNLR
-
-[Document17]
-DocumentPath=relay.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VDDUIUKY
-
-[Document18]
+[Document12]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

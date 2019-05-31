@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3.3V Pin=jamper-1
+Removed Pin From Net: NetName=5V Pin=u5-2
+Added Pin To Net: NetName=5V_usb Pin=jamper-1
+Added Pin To Net: NetName=5V_usb Pin=u5-2
+Added Pin To Net: NetName=5V_usb Pin=UU1-38
+Added Net: Name=5V_usb
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component L1 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component L3 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component L4 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component L5 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component L6 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component L7 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 330
+Added Member To Class: ClassName=Sheet1 Member=Component R3 330
+Added Member To Class: ClassName=Sheet1 Member=Component R4 330
+Added Member To Class: ClassName=Sheet1 Member=Component R5 330
+Added Member To Class: ClassName=Sheet1 Member=Component R6 330
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5.6k

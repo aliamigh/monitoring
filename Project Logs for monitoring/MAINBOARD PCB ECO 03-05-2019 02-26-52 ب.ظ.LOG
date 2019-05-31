@@ -1,0 +1,8 @@
+Added Component: Designator=b1(booster)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT_i Pin=b1-1
+Added Pin To Net: NetName=GND Pin=b1-2
+Added Pin To Net: NetName=VBAT_O Pin=b1-3
+Added Pin To Net: NetName=GND Pin=b1-4
+Added Member To Class: ClassName=Sheet1 Member=Component b1 booster
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5.6k
